@@ -11,7 +11,9 @@
  * [https://github.com/wyouflf/xUtils](https://github.com/wyouflf/xUtils) 
  * [https://github.com/square/retrofit](https://github.com/square/retrofit)
 
- * [https://github.com/square/retrofit](https://github.com/square/retrofit) * [https://github.com/square/retrofit](https://github.com/square/retrofit) * [https://github.com/square/retrofit](https://github.com/square/retrofit)
+ * [https://github.com/square/retrofit](https://github.com/square/retrofit)
+ * [https://github.com/square/retrofit](https://github.com/square/retrofit)
+ * [https://github.com/square/retrofit](https://github.com/square/retrofit)
 在此特别感谢上述作者，喜欢原作的可以去使用原项目。同时欢迎大家下载体验本项目，如果使用过程中遇到什么问题，欢迎反馈。
 
 ## 联系方式
